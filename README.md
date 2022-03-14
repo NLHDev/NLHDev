@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NLHDev
-- 👀 I’m interested in finding a Data Science
+- 👀 I’m interested in finding a job in Data Science
 - 🌱 I’m currently learning Python
 - 📫 How to reach me nhodgson13 [AT] protonmail [DOT] com
 
